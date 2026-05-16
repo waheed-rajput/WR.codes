@@ -53,7 +53,7 @@ Dashboard with charts and analytics.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Waheed_Rajput&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
 
 ---
 
