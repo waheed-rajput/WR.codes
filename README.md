@@ -45,23 +45,23 @@ Dashboard with charts and analytics.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waheed_RajputE&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed_Rajput&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Waheed_Rajput&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://www.linkedin.com/in/waheed-rajput-a22547396?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio: https://yourportfolio.com
-- Email: yourmail@gmail.com
+- Email: rajputwaheed130@gmail.com
 
 ---
 
